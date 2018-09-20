@@ -1,4 +1,4 @@
-package s02.s09.course;
+package s02.a09.course;
 
 import java.util.Scanner;
 
