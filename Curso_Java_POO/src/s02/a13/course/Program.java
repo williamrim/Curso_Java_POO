@@ -28,7 +28,7 @@ public class Program {
 		System.out.println(result);
 	*/
 		
-		
+	
 		int a, b;
 		double result;
 		String s = "33";
@@ -39,6 +39,7 @@ public class Program {
 		
 		System.out.println(a);
 		System.out.println(result);
+	
 		
 	}
 
