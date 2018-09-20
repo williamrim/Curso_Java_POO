@@ -29,7 +29,7 @@ public class Program {
 	*/
 		
 	
-		int a, b;
+		int a;
 		double result;
 		String s = "33";
 		
