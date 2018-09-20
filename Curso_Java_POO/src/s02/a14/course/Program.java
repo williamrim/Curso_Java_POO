@@ -12,7 +12,7 @@ public class Program {
 		String name = "Maria";
 
 		// code snippets são úteis para agilizar a digitação.
-		// tente "susout" + Ctrl + Space
+		// tente "sysout" + Ctrl + Space
 
 		System.out.println("Good mornig!");
 		System.out.println("Good afternoon!");
