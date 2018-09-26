@@ -18,5 +18,4 @@ public class Program {
 		System.out.println(n4);
 		System.out.println(x1);
 	}
-
 }
