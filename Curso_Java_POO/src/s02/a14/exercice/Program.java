@@ -23,7 +23,8 @@ public class Program {
 		System.out.printf("Record: %d years old, code %d and gender: %c%n%n", age, code, gender);
 		System.out.printf("Measure with eight decimal places: %.8f%n", measure);
 		System.out.printf("Rouded (three decimal places): %.3f%n", measure);
-		Locale.setDefault(Locale.ENGLISH);
+		System.out.printf("BR decimal comma: %.3f%n", measure);
+		Locale.setDefault(Locale.GERMAN);
 		System.out.printf("US decimal point: %.3f", measure);
 	}
 
