@@ -1,4 +1,4 @@
-package s02.a22;
+package s02.a22.course;
 
 public class Program02 {
 
