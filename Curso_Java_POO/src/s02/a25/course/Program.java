@@ -1,4 +1,4 @@
-package s02.a25.exercice;
+package s02.a25.course;
 
 public class Program {
 
