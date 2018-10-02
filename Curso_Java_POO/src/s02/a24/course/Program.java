@@ -1,4 +1,4 @@
-package s02.a24.exercice;
+package s02.a24.course;
 
 import java.util.Scanner;
 
