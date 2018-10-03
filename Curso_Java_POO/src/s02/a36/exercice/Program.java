@@ -1,4 +1,4 @@
-package s02.a32.exercice;
+package s02.a36.exercice;
 
 // Estruturas repetitivas while e for
 
