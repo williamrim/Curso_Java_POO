@@ -1,5 +1,7 @@
 package s02.a25.course;
 
+// Expressão condicional ternária
+
 public class Program {
 
 	public static void main(String[] args) {
