@@ -1,5 +1,7 @@
 package s02.a14.exercice;
 
+// Exercício de Fixação
+
 import java.util.Locale;
 
 public class Program {
