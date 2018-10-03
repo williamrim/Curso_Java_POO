@@ -1,4 +1,4 @@
-package s02.a18.course;
+package s02.a98.course;
 
 // Operadores Lógicos 
 
