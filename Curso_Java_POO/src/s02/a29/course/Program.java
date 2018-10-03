@@ -1,5 +1,7 @@
 package s02.a29.course;
 
+// Funções (sintaxe)
+
 import java.util.Scanner;
 
 public class Program {
