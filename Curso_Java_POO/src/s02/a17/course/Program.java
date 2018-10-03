@@ -1,5 +1,7 @@
 package s02.a17.course;
 
+// Operadores comprativos
+
 public class Program {
 
 	public static void main(String[] args) {
