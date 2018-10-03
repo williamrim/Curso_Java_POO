@@ -1,5 +1,7 @@
 package s02.a19.course;
 
+//Operadores bitwise
+
 import java.util.Scanner;
 
 public class Program02 {
