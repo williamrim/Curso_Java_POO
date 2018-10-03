@@ -1,5 +1,7 @@
 package s02.a32.exercice;
 
+// Estruturas repetitivas while e for
+
 import java.util.Scanner;
 
 public class Program {
