@@ -1,4 +1,4 @@
-package s02.a24.course;
+package s02.a26.course;
 
  // Sintaxe alternativa: switch-case
 
