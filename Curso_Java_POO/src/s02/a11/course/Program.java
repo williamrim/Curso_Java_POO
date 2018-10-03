@@ -1,6 +1,6 @@
 package s02.a11.course;
 
-// Tipos primitivos em Java
+// Tipos primitivos em Java 
 
 public class Program {
 
