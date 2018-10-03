@@ -1,4 +1,4 @@
-package s02.a26.course;
+package s02.a28.course;
 
 // Escopo e inicialização
 
