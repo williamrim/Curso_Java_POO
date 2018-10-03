@@ -1,5 +1,7 @@
 package s02.a21.exercice;
 
+//Entrada de dados em Java - Parte 2
+
 import java.util.Scanner;
 
 public class Program {
