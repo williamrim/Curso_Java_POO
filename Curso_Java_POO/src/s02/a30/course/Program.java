@@ -1,4 +1,4 @@
-package s02.a28.course;
+package s02.a30.course;
 
 // Funções (sintaxe)
 

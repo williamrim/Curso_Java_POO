@@ -1,10 +1,10 @@
-package s02.a29.course;
+package s02.a30.course;
 
 // Funções (sintaxe)
 
 import java.util.Scanner;
 
-public class Program {
+public class Program02 {
 
 	public static void main(String[] args) {
 		
