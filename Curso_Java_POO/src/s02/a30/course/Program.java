@@ -1,5 +1,7 @@
 package s02.a30.course;
 
+// Estrutura repetitiva while
+
 import java.util.Scanner;
 
 public class Program {
