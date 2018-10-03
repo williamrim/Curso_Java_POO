@@ -1,5 +1,7 @@
 package s02.a19.course;
 
+// Operadores bitwise
+
 public class Program {
 
 	public static void main(String[] args) {
