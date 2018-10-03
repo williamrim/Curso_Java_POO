@@ -21,6 +21,8 @@ public class Program {
 		}
 		
 		System.out.println("Sum = " + sum);
+		
+		sc.close();
 	}
 
 }
