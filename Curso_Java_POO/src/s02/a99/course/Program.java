@@ -1,4 +1,4 @@
-package s02.a17.course;
+package s02.a99.course;
 
 // Operadores comprativos 
 
