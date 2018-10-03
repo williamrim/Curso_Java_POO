@@ -1,5 +1,7 @@
 package s02.a26.course;
 
+// Escopo e inicialização
+
 public class Program {
 
 	public static void main(String[] args) {
