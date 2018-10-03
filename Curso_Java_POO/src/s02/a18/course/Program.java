@@ -1,6 +1,6 @@
 package s02.a18.course;
 
-// Operadores Lógicos
+// Operadores Lógicos 
 
 public class Program {
 
