@@ -1,5 +1,7 @@
 package s02.a24.course;
 
+ // Sintaxe alternativa: switch-case
+
 import java.util.Scanner;
 
 public class Program {
