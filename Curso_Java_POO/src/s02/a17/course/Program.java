@@ -1,4 +1,4 @@
-package s02.a20.course;
+package s02.a17.course;
 
 // Entrada de dados em Java - Parte 1
 
