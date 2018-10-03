@@ -1,6 +1,6 @@
 package s02.a19.course;
 
-// Operadores bitwise
+// Operadores bitwise 
 
 public class Program {
 
