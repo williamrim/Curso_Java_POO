@@ -1,4 +1,4 @@
-package s02.a25.course;
+package s02.a27.course;
 
 // Expressão condicional ternária
 
