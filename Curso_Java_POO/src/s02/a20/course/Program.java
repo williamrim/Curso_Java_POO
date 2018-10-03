@@ -1,5 +1,7 @@
 package s02.a20.course;
 
+// Entrada de dados em Java - Parte 1
+
 import java.util.Scanner;
 
 public class Program {
