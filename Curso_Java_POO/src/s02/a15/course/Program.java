@@ -1,6 +1,6 @@
 package s02.a15.course;
 
-// Operadores Aritméticos
+// Operadores Aritméticos 
 
 public class Program {
 
