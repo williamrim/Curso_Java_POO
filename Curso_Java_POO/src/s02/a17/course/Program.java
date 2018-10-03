@@ -1,6 +1,6 @@
 package s02.a17.course;
 
-// Operadores comprativos
+// Operadores comprativos 
 
 public class Program {
 
