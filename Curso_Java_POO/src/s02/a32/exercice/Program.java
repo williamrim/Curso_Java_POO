@@ -25,6 +25,7 @@ public class Program {
 		 * if(i==1) { higher = value; } else { higher = (value > higher) ? value :
 		 * higher; } }
 		 */
+		
 
 		int higher = Integer.MIN_VALUE;
 		for (int i = 1; i <= n; i++) {
