@@ -1,6 +1,6 @@
 package s02.a14.exercice;
 
-// Exercício de Fixação
+// Saída de dados em Java
 
 import java.util.Locale;
 

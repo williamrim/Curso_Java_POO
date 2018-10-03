@@ -1,6 +1,6 @@
 package s02.a14.course;
 
-// Saída de dados em Java
+// Saída de dados em Java 
 
 import java.util.Locale;
 
