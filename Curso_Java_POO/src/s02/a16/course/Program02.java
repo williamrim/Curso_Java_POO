@@ -1,6 +1,6 @@
 package s02.a16.course;
 
-// Operadores de atribuição
+// Operadores de atribuição 
 
 public class Program02 {
 
