@@ -1,5 +1,7 @@
 package s02.a22.course;
 
+// Funções interessantes para String
+
 public class Program02 {
 
 	public static void main(String[] args) {
