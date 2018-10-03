@@ -1,4 +1,4 @@
-package s02.a22.course;
+package s02.a25.course;
 
 // Funções interessantes para String
 
