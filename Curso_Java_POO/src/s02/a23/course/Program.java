@@ -1,5 +1,7 @@
 package s02.a23.course;
 
+// Estruturas condicionais
+
 import java.util.Scanner;
 
 public class Program {
