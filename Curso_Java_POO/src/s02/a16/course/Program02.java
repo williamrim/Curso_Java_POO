@@ -1,5 +1,7 @@
 package s02.a16.course;
 
+// Operadores de atribuição
+
 public class Program02 {
 
 	public static void main(String[] args) {
