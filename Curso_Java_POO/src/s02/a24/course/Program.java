@@ -48,6 +48,7 @@ public class Program {
 
 		System.out.println("Day: " + day);
 
+		sc.close();
 	}
 
 }
