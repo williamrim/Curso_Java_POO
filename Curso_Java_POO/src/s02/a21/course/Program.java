@@ -1,5 +1,7 @@
 package s02.a21.course;
 
+// Entrada de dados em Java - Parte 2
+
 import java.util.Locale;
 import java.util.Scanner;
 
