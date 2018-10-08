@@ -2,6 +2,8 @@ package s03.a40.application;
 
 import java.util.Scanner;
 
+// Resolvendo um problema sem orientação a objetos
+
 public class Program {
 
 	public static void main(String[] args) {
@@ -37,7 +39,6 @@ public class Program {
 		}
 		
 		sc.close();
-
 	}
 
 }
