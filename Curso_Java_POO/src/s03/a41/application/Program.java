@@ -1,6 +1,6 @@
 package s03.a41.application;
 
-// Criando uma classe com três atributos para representar melhor o triângulo
+// Criando uma classe com três atributos para representar melhor o triângulo 
 
 import java.util.Scanner;
 
