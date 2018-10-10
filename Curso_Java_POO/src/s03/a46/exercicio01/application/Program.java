@@ -4,7 +4,7 @@ package s03.a46.exercicio01.application;
 
 import java.util.Scanner;
 
-import s03.a46.exercicio01.entitites.Rectangle;
+import s03.a46.exercicio01.entities.Rectangle;
 
 public class Program {
 

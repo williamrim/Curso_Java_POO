@@ -1,4 +1,4 @@
-package s03.a46.exercicio01.entitites;
+package s03.a46.exercicio01.entities;
 
 // Exercícios de fixação
 
