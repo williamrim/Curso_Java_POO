@@ -31,7 +31,8 @@ public class Program {
 		std2.trimester3 = sc.nextDouble();
 
 		std2.situation();
-
+		
+		sc.close();
 	}
 
 }
