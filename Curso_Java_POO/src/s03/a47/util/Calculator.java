@@ -1,5 +1,7 @@
 package s03.a47.util;
 
+//Membros estáticos - Parte 1
+
 public class Calculator {
 
 	public double PI = 3.14159;

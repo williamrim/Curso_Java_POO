@@ -1,5 +1,7 @@
 package s03.a47.application;
 
+// Membros estáticos - Parte 1
+
 import java.util.Scanner;
 
 import s03.a47.util.Calculator;
