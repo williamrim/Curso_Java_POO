@@ -1,10 +1,10 @@
 package s03.a57.entities;
 
-// Gerando automaticamente construtores, getters e setters
+// Modificadores de acesso
 
 public class Product {
 
-	private String name;
+	String name;
 	private double price;
 	private int quantity;
 		

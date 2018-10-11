@@ -1,6 +1,6 @@
 package s03.a57.application;
 
-// Gerando automaticamente construtores, getters e setters
+// Modificadores de acesso
 
 import java.util.Scanner;
 
