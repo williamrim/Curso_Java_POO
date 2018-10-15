@@ -4,7 +4,7 @@ package s04.a56.application;
 
 import java.util.Scanner;
 
-import s04.a52.entities.Product;
+import s04.a56.entities.Product;
 
 public class Program {
 
