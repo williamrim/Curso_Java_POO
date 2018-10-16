@@ -1,4 +1,4 @@
-package s04.a62;
+package s04.a62.entitites;
 
 //Exercício de Fixação
 
@@ -24,7 +24,7 @@ public class Account {
 	}
 
 	public String toString() {
-		return "Account " + n + ", Holder: " + holder + ", Balance: $ " + balance;
+		return "Account " + n + ", Holder: " + holder + ", Balance: $ " + String.format("%.2f", balance);
 	}
 
 }
