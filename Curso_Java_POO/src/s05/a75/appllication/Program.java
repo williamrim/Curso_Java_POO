@@ -34,7 +34,7 @@ public class Program {
 		
 		System.out.println("-------------");
 		System.out.println("Index of Bob: " + list.indexOf("Bob"));
-		System.out.println("Index of Bob: " + list.indexOf("Marco"));
+		System.out.println("Index of Marco: " + list.indexOf("Marco"));
 		
 		System.out.println("-------------");
 		List<String> result = list.stream().filter(x -> x.charAt(0) == 'A').collect(Collectors.toList());
