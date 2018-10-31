@@ -2,6 +2,7 @@ package s05.a76.appllication;
 
 //Exercício Proposto
 
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
@@ -45,9 +46,10 @@ public class Program {
 		System.out.println("\nList of employees:");
 		for (Employee obj : list) {
 			System.out.println(obj);
-		}
+	
 
 		sc.close();
 	}
 
+}
 }
