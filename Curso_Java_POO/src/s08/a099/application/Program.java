@@ -1,12 +1,12 @@
-package s08.a99.application;
+package s08.a099.application;
 
 //Exercício resolvido 2 (demo StringBuilder)
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 
-import s08.a99.entities.Comment;
-import s08.a99.entities.Post;
+import s08.a099.entities.Comment;
+import s08.a099.entities.Post;
 
 public class Program {
 

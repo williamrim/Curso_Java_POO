@@ -1,4 +1,4 @@
-package s08.a99.entities;
+package s08.a099.entities;
 
 //Exercício resolvido 2 (demo StringBuilder)
 
