@@ -1,6 +1,6 @@
 package s08.a97.entities;
 
-//Exercício resolvido 1 - Parte 1
+//Exercício resolvido 1
 
 import java.util.Date;
 

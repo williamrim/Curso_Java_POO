@@ -1,6 +1,6 @@
 package s08.a97.entities.enums;
 
-//Exercício resolvido 1 - Parte 1
+//Exercício resolvido 1
 
 public enum WorkerLevel {
 	

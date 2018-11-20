@@ -1,5 +1,7 @@
 package s08.a97.application;
 
+//Exercício resolvido 1
+
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
@@ -9,8 +11,6 @@ import s08.a97.entities.Department;
 import s08.a97.entities.HourContract;
 import s08.a97.entities.Worker;
 import s08.a97.entities.enums.WorkerLevel;
-
-//Exercício resolvido 1 - Parte 1
 
 public class Program {
 
