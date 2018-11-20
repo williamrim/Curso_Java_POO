@@ -1,4 +1,4 @@
-package s08.a94.entities.enums;
+package s08.a094.entities.enums;
 
 //Enumerações
 

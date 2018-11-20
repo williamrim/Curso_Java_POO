@@ -1,10 +1,10 @@
-package s08.a94.entities;
+package s08.a094.entities;
 
 //Enumerações
 
 import java.util.Date;
 
-import s08.a94.entities.enums.OrderStatus;
+import s08.a094.entities.enums.OrderStatus;
 
 public class Order {
 	
