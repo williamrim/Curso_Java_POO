@@ -1,5 +1,7 @@
 package s08.a94.entities;
 
+//Enumerações
+
 import java.util.Date;
 
 import s08.a94.entities.enums.OrderStatus;
