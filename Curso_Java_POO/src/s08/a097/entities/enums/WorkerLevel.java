@@ -1,4 +1,4 @@
-package s08.a97.entities.enums;
+package s08.a097.entities.enums;
 
 //Exercício resolvido 1
 

@@ -1,4 +1,4 @@
-package s08.a97.entities;
+package s08.a097.entities;
 
 //Exercício resolvido 1
 

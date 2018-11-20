@@ -1,4 +1,4 @@
-package s08.a97.entities;
+package s08.a097.entities;
 
 //Exercício resolvido 1
 
@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.List;
 
-import s08.a97.entities.enums.WorkerLevel;
+import s08.a097.entities.enums.WorkerLevel;
 
 public class Worker {
 	

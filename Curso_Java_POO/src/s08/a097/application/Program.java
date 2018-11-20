@@ -1,4 +1,4 @@
-package s08.a97.application;
+package s08.a097.application;
 
 //Exercício resolvido 1
 
@@ -7,10 +7,10 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Scanner;
 
-import s08.a97.entities.Department;
-import s08.a97.entities.HourContract;
-import s08.a97.entities.Worker;
-import s08.a97.entities.enums.WorkerLevel;
+import s08.a097.entities.Department;
+import s08.a097.entities.HourContract;
+import s08.a097.entities.Worker;
+import s08.a097.entities.enums.WorkerLevel;
 
 public class Program {
 
