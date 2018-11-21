@@ -1,6 +1,7 @@
-package s08.a100.entities.enums;
+package s08.a100.entities;
 
 //Exercício de fixação
+//refeito para melhor fixação
 
 public enum OrderStatus {
 	

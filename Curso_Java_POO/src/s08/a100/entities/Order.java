@@ -1,29 +1,23 @@
 package s08.a100.entities;
 
 //Exercício de fixação
+//refeito para melhor fixação
 
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
-import s08.a100.entities.enums.OrderStatus;
-
 public class Order {
 	
-	SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy HH:mm:ss");
+	SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyy HH:mm:ss");
 	
 	private Date moment;
 	private OrderStatus status;
 	private Client client;
-	
-	private List<OrderItem> items = new ArrayList<>();
-	
-	public Order() {
-	}
+	private List<OrderItem> order = new ArrayList<>();
 	
 	public Order(Date moment, OrderStatus status, Client client) {
-		super();
 		this.moment = moment;
 		this.status = status;
 		this.client = client;
@@ -37,14 +31,14 @@ public class Order {
 		this.moment = moment;
 	}
 
-	public OrderStatus getstatus() {
+	public OrderStatus getStatus() {
 		return status;
 	}
 
-	public void setOstatus(OrderStatus status) {
+	public void setStatus(OrderStatus status) {
 		this.status = status;
 	}
-	
+
 	public Client getClient() {
 		return client;
 	}
@@ -53,40 +47,43 @@ public class Order {
 		this.client = client;
 	}
 
-	public List<OrderItem> getItems(){
-		return items;
+	public List<OrderItem> getOrder() {
+		return order;
+	}
+
+	public void addItem(OrderItem item) {
+		order.add(item);
 	}
 	
-	public void addItems(OrderItem item) {
-		items.add(item);
+	public void remove(OrderItem item) {
+		order.remove(item);
 	}
 	
-	public void removeItems(OrderItem item) {
-		items.remove(item);
-	}
-	
-	public Double total() {
+	public double total() {
 		double sum = 0;
-		for (OrderItem item : items) {
+		for (OrderItem item : order) {
 			sum += item.subTotal();
 		}
 		return sum;
 	}
-
+	
 	public String toString() {
 		StringBuilder sb = new StringBuilder();
-		sb.append("Order moment: "+ sdf.format(moment));
-		sb.append("\nOrderstatus: " + status);
-		sb.append("\nClient: " + client);
-		sb.append("\nOrder items:");
-		for (OrderItem item : items) {
-			sb.append("\n" + item);
+		sb.append("Order moment: ");
+		sb.append(sdf.format(moment));
+		sb.append("\nOrder status: ");
+		sb.append(status);
+		sb.append("\nClient: ");
+		sb.append(client);
+		sb.append("\nOrder Items:\n");
+		for (OrderItem item : order) {
+			sb.append(item);
+			sb.append("\n");
 		}
-		sb.append("\nTotal price: $" + String.format("%.2f", total()));
+		sb.append("Totam price: $");
+		sb.append(String.format("%.2f", total()));
 		
 		return sb.toString();
 	}
-	
-	
-	
+
 }
