@@ -11,7 +11,7 @@ import s08.a100.entities.enums.OrderStatus;
 
 public class Order {
 	
-	SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyy HH:mm:ss");
+	SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy HH:mm:ss");
 	
 	private Date moment;
 	private OrderStatus status;

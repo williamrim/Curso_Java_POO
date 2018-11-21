@@ -8,7 +8,7 @@ import java.util.Date;
 
 public class Client {
 	
-	SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyy");
+	SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy");
 	
 	private String name, email;
 	private Date birthDate;
