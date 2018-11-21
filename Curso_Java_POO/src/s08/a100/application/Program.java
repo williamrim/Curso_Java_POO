@@ -18,7 +18,7 @@ public class Program {
 
 	public static void main(String[] args) throws ParseException {
 
-		SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyy");
+		SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy");
 
 		Scanner sc = new Scanner(System.in);
 
@@ -29,7 +29,7 @@ public class Program {
 		System.out.print("Email: ");
 		String email = sc.nextLine();
 
-		System.out.print("Birth date (DD/MM/YYY): ");
+		System.out.print("Birth date (DD/MM/YYYY): ");
 		Date birthDate = sdf.parse(sc.nextLine());
 
 		Client client = new Client(name, email, birthDate);
