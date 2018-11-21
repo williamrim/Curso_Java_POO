@@ -22,7 +22,7 @@ public class Program {
 
 		Scanner sc = new Scanner(System.in);
 
-		System.out.println("Enter cliente data:");
+		System.out.println("Enter client data:");
 		System.out.print("Name: ");
 		String name = sc.nextLine();
 
