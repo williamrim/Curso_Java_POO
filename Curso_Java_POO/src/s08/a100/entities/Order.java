@@ -7,6 +7,7 @@ import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
+import s08.a100.entities.enums.OrderStatus;
 
 public class Order {
 	

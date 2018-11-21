@@ -1,4 +1,4 @@
-package s08.a100.entities;
+package s08.a100.entities.enums;
 
 //Exercício de fixação
 //refeito para melhor fixação

@@ -11,7 +11,7 @@ import java.util.Scanner;
 import s08.a100.entities.Client;
 import s08.a100.entities.Order;
 import s08.a100.entities.OrderItem;
-import s08.a100.entities.OrderStatus;
+import s08.a100.entities.enums.OrderStatus;
 import s08.a100.entities.Product;
 
 public class Program {
