@@ -1,5 +1,7 @@
 package s09.a104.entities;
 
+//Upcasting e Downcasting
+
 public class SavingsAccount extends Account{
 	
 	private Double interestRate;
