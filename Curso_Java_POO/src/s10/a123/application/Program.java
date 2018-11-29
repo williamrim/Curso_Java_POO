@@ -28,10 +28,9 @@ public class Program {
 
 			System.out.print("\nEnter amount for withdraw: ");
 			double amount = sc.nextDouble();
+
 			acc.withdraw(amount);
-
 			System.out.println("New balance: " + String.format("%.2f", acc.getBalance()));
-
 		} catch (DomainException e) {
 			System.out.println("Withdraw error: " + e.getMessage());
 		} catch (RuntimeException e) {
