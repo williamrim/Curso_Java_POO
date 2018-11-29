@@ -1,6 +1,6 @@
 package s10.a119a120a121a122.model.entities;
 
-//Criando exceções personalizadas
+//Primeira solução - muito ruim
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
