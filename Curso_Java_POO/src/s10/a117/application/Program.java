@@ -2,7 +2,7 @@ package s10.a117.application;
 
 //Pilha de chamadas de métodos
 
-import java.util.InputMismatchException;
+//import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class Program {
