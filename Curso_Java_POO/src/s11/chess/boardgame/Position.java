@@ -1,6 +1,6 @@
 package s11.chess.boardgame;
 
-//a127 - Primeira classe - Position
+//a128 - Começando a implementar Board e Piece
 
 public class Position {
 	
@@ -32,8 +32,4 @@ public class Position {
 	public String toString() {
 		return row + ", " + column;
 	}
-	
-	
-	
-	
 }
