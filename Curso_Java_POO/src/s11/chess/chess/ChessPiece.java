@@ -1,12 +1,12 @@
 package s11.chess.chess;
 
-//a129 - Camada chess e imprimindo o tabuleiro
+//a130 - Colocando peças no tabuleiro
 
 import s11.chess.boardgame.Board;
 import s11.chess.boardgame.Piece;
 
-public class ChessPiece extends Piece{
-	
+public class ChessPiece extends Piece {
+
 	private Color color;
 
 	public ChessPiece(Board board, Color color) {
