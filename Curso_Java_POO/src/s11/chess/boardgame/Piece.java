@@ -1,6 +1,6 @@
 package s11.chess.boardgame;
 
-//a128 - Começando a implementar Board e Piece
+//a129 - Camada chess e imprimindo o tabuleiro
 
 public class Piece {
 	
