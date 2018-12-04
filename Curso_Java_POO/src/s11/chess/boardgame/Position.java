@@ -1,7 +1,5 @@
 package s11.chess.boardgame;
 
-//a130 - Colocando peças no tabuleiro
-
 public class Position {
 
 	private int row;

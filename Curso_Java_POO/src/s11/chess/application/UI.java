@@ -1,7 +1,5 @@
 package s11.chess.application;
 
-//a130 - Colocando peças no tabuleiro
-
 import s11.chess.chess.ChessPiece;
 
 public class UI {
